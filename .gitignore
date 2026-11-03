@@ -1,0 +1,16 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local environment / secrets
+.env
+
+# Local database (created automatically on first run)
+data/*.db
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
